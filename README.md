@@ -24,7 +24,7 @@
 :muscle: Passionate about **Competitive Coding** <br><br>
 
 ### 🌱 Currently Learning:
-- Javascript(Js)
+- Javascript(JS)
 - Data Structures and Algorithms (DSA)
 
 #### 🧡 &nbsp;&nbsp;My passions
