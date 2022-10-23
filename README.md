@@ -21,7 +21,7 @@
 :snowflake: Pursuing B.Tech in **Information Technology** from **Bannari Amman Institute of Technology,Erode** <br><br>
 ⚡ Check out my Portfolio Website <a href = "file:///E:/simple%20websites/portfolio/index.html">Here</a><br><br>
 🚀 Love to talk about **Research and Innovation!** <br><br>
-:muscle: Passionate about **Competitive Coding** <br><br>
+:muscle: Passionate about **Competitive Coding and learning New Technology** <br><br>
 
 ### 🌱 Currently Learning:
 - Javascript(JS)
