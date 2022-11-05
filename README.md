@@ -29,7 +29,7 @@
 
 #### 🧡 &nbsp;&nbsp;My passions
 * Technology and software
-* Science 
+*
 * Front-end Developer
 * Books 
 * Gardening
