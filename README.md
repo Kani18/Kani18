@@ -22,7 +22,6 @@
 :snowflake: Pursuing B.Tech in **Information Technology** from **Bannari Amman Institute of Technology,Erode** <br><br>
 ⚡ Check out my Portfolio Website   <a href = "http://htmlpreview.github.io/?https://github.com/Kani18/Portfolio-/blob/main/portfolio/index.html">Here</a>
 <br><br>
-🚀 Love to talk about **Research and Innovation!** <br><br>
 :muscle: Passionate about **Competitive Coding and learning New Technology** <br><br>
 
 ### 🌱 Currently Learning:
