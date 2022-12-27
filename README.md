@@ -28,7 +28,7 @@
 - Javascript(JS)
 - Data Structures and Algorithms (DSA)
 
-#### 🧡 &nbsp;&nbsp;My passions
+#### 🧡 &nbsp;&nbsp;My passionsPPPP
 * Technology and software
 * Science
 * Front-end Developer
