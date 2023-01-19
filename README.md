@@ -29,7 +29,7 @@
 - Data Structures and Algorithms (DSA)
 
 #### 🧡 &nbsp;&nbsp;My passions
-* Technology and software
+* Technology and softwares
 * Science
 * Front-end Developer
 * Books 
