@@ -20,7 +20,7 @@
 :star:  Looking forward to start my professional career as a **Software Engineer** <br><br>
 :nerd_face: Currently learning **Full Stack Development** <br><br>
 :snowflake: Pursuing B.Tech in **Information Technology** from **Bannari Amman Institute of Technology,Erode** <br><br>
-⚡ Check out my Portfolio Website   <a href = "https://kanishka-it-portfolio.netlify.app/">Here</a>
+⚡ Check out my Portfolio Website   <a href = "https://portfolio-kanishkad.netlify.app/">Here</a>
 <br><br>
 :muscle: Passionate about ** learning New Technology** <br><br>
 
