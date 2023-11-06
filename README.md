@@ -23,10 +23,10 @@
 ⚡ Check out my Portfolio Website   <a href = "https://portfolio-kanishkad.netlify.app/">Here</a>
 <br><br>
 :muscle: Passionate about ** learning New Technology** <br><br>
+Certification <a href="https://www.credly.com/badges/4d4e2cc4-9513-42db-963c-d1cad152629a/linked_in_profile">Here</a>
 
 ### 🌱 Currently Learning:
-- Javascript(JS)
-- Data Structures and Algorithms (DSA)
+- SpringBoot
 
 #### 🧡 &nbsp;&nbsp;My passions
 * Technology and softwares
